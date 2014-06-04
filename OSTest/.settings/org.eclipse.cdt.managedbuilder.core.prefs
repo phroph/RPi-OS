@@ -1,0 +1,12 @@
+#Thu Feb 27 13:49:17 EST 2014
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/com.arm.eclipse.build.config.baremetal.exe.debug.2027247141/CPATH/delimiter=;
+environment/buildEnvironmentInclude/com.arm.eclipse.build.config.baremetal.exe.debug.2027247141/CPATH/operation=remove
+environment/buildEnvironmentInclude/com.arm.eclipse.build.config.baremetal.exe.debug.2027247141/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/com.arm.eclipse.build.config.baremetal.exe.debug.2027247141/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/com.arm.eclipse.build.config.baremetal.exe.debug.2027247141/append=true
+environment/buildEnvironmentInclude/com.arm.eclipse.build.config.baremetal.exe.debug.2027247141/appendContributed=true
+environment/buildEnvironmentLibrary/com.arm.eclipse.build.config.baremetal.exe.debug.2027247141/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/com.arm.eclipse.build.config.baremetal.exe.debug.2027247141/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/com.arm.eclipse.build.config.baremetal.exe.debug.2027247141/append=true
+environment/buildEnvironmentLibrary/com.arm.eclipse.build.config.baremetal.exe.debug.2027247141/appendContributed=true
